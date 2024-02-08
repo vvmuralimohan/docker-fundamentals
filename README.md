@@ -1,5 +1,6 @@
 # Docker Fundamentals
 
+
 ## What is covered as part of Docker Fundamentals?
 1. Docker Introduction
 2. Docker Installation
